@@ -7,6 +7,7 @@
 
 # This is a collection of bash functions used by different scripts
 
+
 # imports
 . scripts/utils.sh
 
